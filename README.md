@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MJNoel
+👋 Hi there, I’m MJ!
+
 - 👀 I’m interested in AI applied to medicine
 - 🌱 I’m currently learning Python and Deep learning
 
